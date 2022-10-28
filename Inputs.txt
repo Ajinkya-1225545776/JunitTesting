@@ -1,0 +1,6 @@
+Author -Ajinkya Abhinay Pise
+10001 (output-1)
+1001 (output-0)
+01000 (output-1)
+011 (output- -1)
+00000 (output-3)
