@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Author=Ajinkya Abhinay Pise
 
 public class Urinal {
     public static void main(String[] args){
