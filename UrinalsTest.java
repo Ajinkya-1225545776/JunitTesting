@@ -7,7 +7,7 @@ class UrinalsTest {
     @Test
     void Urinal() {
         Urinal Ur =new Urinal();
-        String str="10001";
+        String str="1000001";
         assertEquals(1, Ur.Simple(str));
 
     }
